@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createAt": "2022-11-13T19:27:33.742Z"
+      "createdAt": "2022-11-13T19:27:33.742Z"
     },
     {
       "id": 2,
@@ -14,7 +14,39 @@
       "type": "outcome",
       "category": "Alimentação",
       "price": 50,
-      "createAt": "2022-10-13T19:27:33.742Z"
+      "createdAt": "2022-10-13T19:27:33.742Z"
+    },
+    {
+      "description": "Árvore de Natal",
+      "price": 300,
+      "category": "Laser",
+      "type": "outcome",
+      "createdAt": "2022-11-15T21:12:00.034Z",
+      "id": 3
+    },
+    {
+      "description": "Teste",
+      "price": 1231,
+      "category": "oi",
+      "type": "outcome",
+      "createdAt": "2022-11-15T21:17:15.625Z",
+      "id": 4
+    },
+    {
+      "description": "Teste A",
+      "price": 123123123,
+      "category": "Laser",
+      "type": "income",
+      "createdAt": "2022-11-15T21:17:31.615Z",
+      "id": 5
+    },
+    {
+      "description": "Show",
+      "price": 1400,
+      "category": "Laser",
+      "type": "outcome",
+      "createdAt": "2022-11-15T21:28:44.718Z",
+      "id": 6
     }
   ]
 }
